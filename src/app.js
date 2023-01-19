@@ -1,5 +1,7 @@
 import express from "express";
 
+//acesso a dados definidos em memória
+
 const app = express();
 
 app.use(express.json());
